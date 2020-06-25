@@ -94,10 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "최동식"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           :  "/assets/images/profile/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person. my first Blog! Hello"
   location         : "Somewhere"
-  email            :
+  email            : "opert1564@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
