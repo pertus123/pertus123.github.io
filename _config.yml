@@ -23,10 +23,10 @@ name                     : "최동식"
 description              : "An amazing website. my first blog!"
 url                      : #"assets/images/profile/my.jpg"  #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : #"assets/images/profile/my.jpg"  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "https://pertus123.github.io/" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "assets/images/profile/my.jpg"  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Blog!" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "최동식"
   avatar           :  "/assets/images/profile/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person. my first Blog! Hello"
-  location         : "Somewhere"
+  bio              : "안녕하세요 ㅎㅎ "
+  location         : "Republic of Korea"
   email            : "opert1564@naver.com"
   links:
     - label: "Email"
@@ -276,6 +276,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true #
       share: true
       related: true
