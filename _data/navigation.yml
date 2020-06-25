@@ -8,6 +8,8 @@ main:
     url: /about/
   - title: "연도별 포스트"
     url: /posts/
+  - title: "categories"
+    url: /categories/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
