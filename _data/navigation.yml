@@ -1,15 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Tags"
-    url: /Tags/
-  - title: "About"
-    url: /about/
-  - title: "연도별 포스트"
-    url: /posts/
-  - title: "categories"
-    url: /categories/
+  - title: "Daily Life"
+    url: /DailyLife/
+  - title: "IT NEWS"
+    url: /ITNEWS/
+
+  - title: "Computer Science"
+    url: /ComputerScience/
+  - title: "Problem Solving"
+    url: /ProblemSolving/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
